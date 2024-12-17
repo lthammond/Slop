@@ -25,3 +25,7 @@ render_target_update_mode = 4
 
 [node name="Level" parent="SubViewport" instance=ExtResource("2_xbpav")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00245285, -0.00103426, 0.00329399)
+
+[editable path="SubViewport/Level"]
+[editable path="SubViewport/Level/Player"]
+[editable path="SubViewport/Level/piggy"]
